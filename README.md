@@ -39,8 +39,6 @@ This training is prerequisite for any other Java-aware training.
 ## 4. Git Overview (1)
 - Commits
 - Branches
-
-test
 - Repos
 - Local workflow
 - Remote workflow
